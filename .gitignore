@@ -1,0 +1,3 @@
+# 忽略所有 .pt 文件
+*.pt
+checkpoints/
